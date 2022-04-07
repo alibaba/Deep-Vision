@@ -18,7 +18,7 @@ cd data
 sh get_ucf101_data.sh
 ```
 
-- Install [FFmpeg] (https://github.com/FFmpeg/FFmpeg.git)
+- Install [FFmpeg](https://github.com/FFmpeg/FFmpeg.git)
 - Use FFmpeg to reencode the videos into a mpeg4 format. 
 
 ```
